@@ -12,6 +12,8 @@ Put in a regex for your desired mod.
 Right click the orb you want to use, hover it over the item.  
 Press the End button and put in how many times you want it to apply your orb.
 
+![example](https://github.com/user-attachments/assets/0b22470c-a93a-46a2-b78c-6cb2a941f8d4)
+
 
 If it succesfully hits your desired affix, it'll make a sound and stop clicking.  
 If it runs out of orbs it'll also make a sound and stop trying to click - so put on a YouTube video on your other monitor while you wait.
@@ -20,3 +22,5 @@ Press ESC to quit.
 
 # ToDo List
 Add a GUI.
+
+
